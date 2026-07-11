@@ -5,7 +5,7 @@ export const profile = {
     "AI Engineer",
     "Machine Learning Engineer",
     "LLM Engineer",
-    "Java Backend Developer",
+    "Java Developer",
   ],
   subtitle:
     "Building intelligent systems using Machine Learning, LLMs, Computer Vision and Edge AI.",
