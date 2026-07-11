@@ -36,7 +36,7 @@ export default function HomePage() {
               variants={item}
               className="mb-5 inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1.5 font-mono text-xs uppercase tracking-[0.2em] text-accent-cyan"
             >
-              Available for full-time roles · {profile.location}
+              Available for full-time roles · Hyderabad, Bangalore & Chennai
             </motion.span>
 
             <motion.h1
