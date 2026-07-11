@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "Computer Vision",
     "Deepfake Detection",
     "Edge AI",
-    "Java Backend Developer",
+    "Java Developer",
     "SRM Institute of Science and Technology",
   ],
   authors: [{ name: profile.name, url: profile.github }],
