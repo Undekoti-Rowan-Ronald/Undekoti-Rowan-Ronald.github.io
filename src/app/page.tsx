@@ -157,6 +157,17 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* IMPACT COUNTERS */}
+      <section className="section !pt-0">
+        <div className="container-narrow">
+          <div className="glass grid grid-cols-2 gap-8 rounded-3xl p-8 sm:grid-cols-4">
+            <AnimatedCounter value={72} suffix="%" label="EER ÷100 · deepfake audio" />
+            <AnimatedCounter value={98} suffix="%" label="Params cut via QLoRA" />
+            <AnimatedCounter value={95} suffix="%" label="Phishing detection accuracy" />
+            <AnimatedCounter value={30} suffix="%" label="Manual tasks automated" />
+          </div>
+        </div>
+      </section>
 
       {/* SNAPSHOT */}
       <section className="section">
