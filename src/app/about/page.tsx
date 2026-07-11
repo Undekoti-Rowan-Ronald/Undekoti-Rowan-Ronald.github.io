@@ -13,7 +13,7 @@ const passions = [
   { icon: FlaskConical, label: "LLMs" },
   { icon: Code2, label: "Computer Vision" },
   { icon: Cpu, label: "Edge AI" },
-  { icon: Code2, label: "Java" },
+  { icon: Code2, label: "Java Backend" },
   { icon: Code2, label: "Spring Boot" },
   { icon: FlaskConical, label: "Research" },
 ];

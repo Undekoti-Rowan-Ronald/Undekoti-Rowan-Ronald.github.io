@@ -9,7 +9,7 @@ export const profile = {
   ],
   subtitle:
     "Building intelligent systems using Machine Learning, LLMs, Computer Vision and Edge AI.",
-  location: "Hyderabad, India",
+  location: "Chennai, India",
   email: "undekotirowan@outlook.com",
   phone: "+91-9154365953",
   github: "https://github.com/Undekoti-Rowan-Ronald",
